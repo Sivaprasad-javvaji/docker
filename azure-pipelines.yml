@@ -4,8 +4,7 @@
 # https://aka.ms/yaml
 
 name: $(Date:yyyyMMdd)$(Rev:.r)
-# test
-  
+
 trigger:
 - master
 
